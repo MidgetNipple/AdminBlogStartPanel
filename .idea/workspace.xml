@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80c8a077-63d6-4ddb-88b5-922382a0b041" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/applications.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitnami.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/de/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/de/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/de/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/de/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/de/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/access-phpmyadmin-remotely.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/access-phpmyadmin-remotely.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/access-phpmyadmin-remotely.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/activate-use-xdebug.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/activate-use-xdebug.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/activate-use-xdebug.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/auto-start-xampp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/auto-start-xampp.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/auto-start-xampp.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/backup-restore-mysql.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/backup-restore-mysql.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/backup-restore-mysql.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/change-mysql-temp-dir.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/change-mysql-temp-dir.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/change-mysql-temp-dir.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-use-tomcat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-use-tomcat.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-use-tomcat.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-vhosts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-vhosts.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-vhosts.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-wildcard-subdomains.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-wildcard-subdomains.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/configure-wildcard-subdomains.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/create-framework-project-zf1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/create-framework-project-zf1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/create-framework-project-zf1.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/create-framework-project-zf2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/create-framework-project-zf2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/create-framework-project-zf2.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/deploy-git-app.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/deploy-git-app.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/deploy-git-app.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/access-phpmyadmin-remotely/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/activate-use-xdebug/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/activate-use-xdebug/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/activate-use-xdebug/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/auto-start-xampp/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/backup-restore-mysql/image9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-use-tomcat/image7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-vhosts/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-vhosts/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-vhosts/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-vhosts/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-wildcard-subdomains/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-wildcard-subdomains/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-wildcard-subdomains/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/configure-wildcard-subdomains/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf1/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf1/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf2/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf2/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf2/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf2/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/create-framework-project-zf2/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/deploy-git-app/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/deploy-git-app/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/deploy-git-app/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/deploy-git-app/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/deploy-git-app/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/deploy-git-app/image6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/install-wordpress/image38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/reset-mysql-password/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/reset-mysql-password/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/reset-mysql-password/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/send-mail/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/send-mail/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/send-mail/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/transfer-files-ftp/image9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/troubleshoot-apache/image8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/use-different-php-version/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/use-php-fcgi/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/use-sqlite/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/use-sqlite/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/images/use-sqlite/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/increase-php-file-upload-limit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/increase-php-file-upload-limit.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/increase-php-file-upload-limit.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/install-wordpress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/install-wordpress.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/install-wordpress.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/reset-mysql-password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/reset-mysql-password.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/reset-mysql-password.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/send-mail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/send-mail.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/send-mail.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/transfer-files-ftp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/transfer-files-ftp.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/transfer-files-ftp.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/troubleshoot-apache.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/troubleshoot-apache.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/troubleshoot-apache.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-different-php-version.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-different-php-version.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-different-php-version.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-php-fcgi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-php-fcgi.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-php-fcgi.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-sqlite.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-sqlite.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/docs/use-sqlite.pdfmarks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/es/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/es/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/es/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/es/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/es/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/fr/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/fr/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/fr/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/fr/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/fr/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/hu/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/hu/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/hu/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/hu/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/hu/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons-video-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/beetailer-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/elegantthemes-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/rockettheme-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/sugaroutfitters-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/templatemonster-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/themeforest-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/woothemes-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/addons/wpmu-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/apple-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/bitnami-xampp/image7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/blog/heartbleed-affected-osx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/blog/heartbleed-affected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/blog/heartbleed-fixed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/blog/phpinfo-section-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/blog/phpinfo-section-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/fastly-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/fastly-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/cn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/de.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/es.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/fr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/hu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/it.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/jp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/pl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/pt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/pt_br.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/ro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/ru.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/tr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/ur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/zh_cn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/flags/zh_tw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/linux-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/middleman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/pdf-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-linux-start.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-launch-credentials.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-stack-manager-general.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-stack-manager-network.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-stack-manager-services.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-stack-manager-volumes.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-stack-manager.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-macosx-start.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/screenshots/xampp-windows-start.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/social-icons-large.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/social-icons-large@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/social-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/social-icons@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/sourceforge-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/sourceforge-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/stack-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/stack-icons@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/stamps/stamp-173x38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/stamps/stamp-80x15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/stamps/stamp-88x31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/team/beltran-rueda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/team/daniel-lopez.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/team/kai-seidler.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/team/kay-vogelgesang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/team/paul-hinz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/twitter-bird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/windows-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/xampp-cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/xampp-cloud@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/images/xampp-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/it/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/it/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/it/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/it/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/it/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/javascripts/all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/javascripts/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/jp/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/jp/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/jp/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/jp/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/jp/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/phpinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pl/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pl/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pl/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pl/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pl/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pt_br/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pt_br/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pt_br/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pt_br/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/pt_br/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ro/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ro/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ro/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ro/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ro/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ru/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ru/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ru/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ru/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ru/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/stylesheets/all-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/stylesheets/all.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/stylesheets/asciidoctor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/stylesheets/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/tr/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/tr/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/tr/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/tr/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/tr/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ur/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ur/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ur/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ur/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/ur/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_cn/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_cn/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_cn/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_cn/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_cn/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_tw/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_tw/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_tw/howto_platform_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_tw/howto_shared_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/zh_tw/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xampp/.modell" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xampp/.modell-usb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xampp/.version" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="29" column="6" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="29" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBaseConnection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminPanel.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Webpages/AdminPanel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Includes/Functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1513174872478" expanded="true" signature="115:142" ph="SELECT * FRO... registertable" />
+                <marker date="1513174872478" expanded="true" signature="310:418" ph="INSERT INTO registertable... " />
+                <marker date="1513174872478" expanded="true" signature="812:877" ph="SELECT * FRO... registertable" />
+                <marker date="1513174872478" expanded="true" signature="1597:1705" ph="INSERT INTO registertable... " />
+                <marker date="1513174872478" expanded="true" signature="1957:1984" ph="SELECT * FRO... registertable" />
+                <marker date="1513174872478" expanded="true" signature="2058:2426" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="2066:2080" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="2066:2081" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="2066:2425" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="2191:2419" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="2358:2377" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="2742:2796" ph="INSERT into content... " />
+                <marker date="1513174872478" expanded="true" signature="2742:2797" ph="INSERT into content... " />
+                <marker date="1513174872478" expanded="true" signature="2742:2813" ph="INSERT into contenttable... " />
+                <marker date="1513174872478" expanded="true" signature="2742:2828" ph="INSERT into contenttable... " />
+                <marker date="1513174872478" expanded="true" signature="2742:2844" ph="INSERT into content... " />
+                <marker date="1513174872478" expanded="true" signature="2742:2847" ph="INSERT into content... " />
+                <marker date="1513174872478" expanded="true" signature="3246:3272" ph="SELECT * FRO... contenttable" />
+                <marker date="1513174872478" expanded="true" signature="3362:3740" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3372:3385" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3372:3387" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3372:3674" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3414:3668" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3436:3452" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3436:3668" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3463:3668" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3513:3575" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3513:3576" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3513:3668" ph="..." />
+                <marker date="1513174872478" expanded="true" signature="3664:3668" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainpage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Webpages/mainpage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registreren.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="44" column="50" lean-forward="false" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deletebutton.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Includes/deletebutton.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <marker date="1513169622420" expanded="true" signature="179:216" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StyleSheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/StyleSheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Webpages/Hoofdpagina.php" />
+        <option value="$PROJECT_DIR$/Webpages/Producttoevoegen.php" />
+        <option value="$PROJECT_DIR$/Webpages/DataBaseConnection.php" />
+        <option value="$PROJECT_DIR$/phpclasses/deletebutton.php" />
+        <option value="$PROJECT_DIR$/Webpages/deletebutton.php" />
+        <option value="$PROJECT_DIR$/Includes/Adminpanel.php" />
+        <option value="$PROJECT_DIR$/Includes/editbutton.php" />
+        <option value="$PROJECT_DIR$/Includes/Additems.php" />
+        <option value="$PROJECT_DIR$/Includes/adduser.php" />
+        <option value="$PROJECT_DIR$/Includes/Logout.php" />
+        <option value="$PROJECT_DIR$/Includes/Loginphp.php" />
+        <option value="$PROJECT_DIR$/Includes/Upload.php" />
+        <option value="$PROJECT_DIR$/Webpages/hoofd.php" />
+        <option value="$PROJECT_DIR$/Webpages/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_issd.zip/issd/functies/functies.php" />
+        <option value="$PROJECT_DIR$/Includes/deletefunction.php" />
+        <option value="$PROJECT_DIR$/Webpages/Adminpanel.php" />
+        <option value="$PROJECT_DIR$/Webpages/Login.php" />
+        <option value="$PROJECT_DIR$/Webpages/Registreren.php" />
+        <option value="$PROJECT_DIR$/Includes/deletebutton.php" />
+        <option value="$PROJECT_DIR$/Webpages/mainpage.php" />
+        <option value="$PROJECT_DIR$/Includes/Functions.php" />
+        <option value="$PROJECT_DIR$/Css/StyleSheet.css" />
+        <option value="$PROJECT_DIR$/Webpages/AdminPanel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="311" />
+    <option name="y" value="-20" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AdminPanelProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdminPanelProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prisma" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\AdminPanelProject\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\WebShop\Includes" />
+      <recent name="D:\xampp\htdocs\WebShop\Webpages" />
+      <recent name="D:\xampp\htdocs\WebShop\phpclasses" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c8a077-63d6-4ddb-88b5-922382a0b041" name="Default" comment="" />
+      <created>1505286773579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505286773579</updated>
+      <workItem from="1505286776689" duration="6000" />
+      <workItem from="1507036569844" duration="1015000" />
+      <workItem from="1507186839621" duration="1456000" />
+      <workItem from="1507188380412" duration="2265000" />
+      <workItem from="1507192946203" duration="4848000" />
+      <workItem from="1507274900455" duration="7114000" />
+      <workItem from="1507641801083" duration="31000" />
+      <workItem from="1507801730932" duration="291000" />
+      <workItem from="1510248242844" duration="57000" />
+      <workItem from="1510248320769" duration="46000" />
+      <workItem from="1510304694773" duration="13860000" />
+      <workItem from="1510324366317" duration="7385000" />
+      <workItem from="1510336025319" duration="3774000" />
+      <workItem from="1512029975771" duration="606000" />
+      <workItem from="1512037144122" duration="11000" />
+      <workItem from="1512636467732" duration="1682000" />
+      <workItem from="1512639040400" duration="9435000" />
+      <workItem from="1513073712135" duration="846000" />
+      <workItem from="1513079200304" duration="4755000" />
+      <workItem from="1513095286573" duration="958000" />
+      <workItem from="1513159080711" duration="3547000" />
+      <workItem from="1513165501590" duration="9170000" />
+      <workItem from="1513177148135" duration="97000" />
+      <workItem from="1513184431269" duration="3500000" />
+      <workItem from="1513241101142" duration="454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77588000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24758324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24758324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24758324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Css/StyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Producttoevoegen.php" />
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="69" column="60" lean-forward="false" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Hoofdpagina.php" />
+    <entry file="file://$PROJECT_DIR$/Css/StyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Producttoevoegen.php" />
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="69" column="60" lean-forward="false" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Hoofdpagina.php" />
+    <entry file="file://$PROJECT_DIR$/Css/StyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="104" column="17" lean-forward="false" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Hoofdpagina.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="72" column="11" lean-forward="false" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/Webpages/Producttoevoegen.php" />
+    <entry file="file://$PROJECT_DIR$/Webpages/Hoofdpagina.php" />
+    <entry file="file://$PROJECT_DIR$/phpclasses/deletebutton.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/editbutton.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/Additems.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/adduser.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/Loginphp.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/Upload.php" />
+    <entry file="file://$PROJECT_DIR$/Webpages/hoofd.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_issd.zip/issd/alleproducten.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_issd.zip/issd/header.php" />
+    <entry file="file://$PROJECT_DIR$/Webpages/header.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/Logout.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_issd.zip/issd/functies/functies.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/functies.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/deletefunction.php" />
+    <entry file="file://$PROJECT_DIR$/Includes/DataBaseConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/deletebutton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <marker date="1513169622420" expanded="true" signature="179:216" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/Registreren.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="50" lean-forward="false" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/mainpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Includes/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1513174872478" expanded="true" signature="115:142" ph="SELECT * FRO... registertable" />
+            <marker date="1513174872478" expanded="true" signature="310:418" ph="INSERT INTO registertable... " />
+            <marker date="1513174872478" expanded="true" signature="812:877" ph="SELECT * FRO... registertable" />
+            <marker date="1513174872478" expanded="true" signature="1597:1705" ph="INSERT INTO registertable... " />
+            <marker date="1513174872478" expanded="true" signature="1957:1984" ph="SELECT * FRO... registertable" />
+            <marker date="1513174872478" expanded="true" signature="2058:2426" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="2066:2080" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="2066:2081" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="2066:2425" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="2191:2419" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="2358:2377" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="2742:2796" ph="INSERT into content... " />
+            <marker date="1513174872478" expanded="true" signature="2742:2797" ph="INSERT into content... " />
+            <marker date="1513174872478" expanded="true" signature="2742:2813" ph="INSERT into contenttable... " />
+            <marker date="1513174872478" expanded="true" signature="2742:2828" ph="INSERT into contenttable... " />
+            <marker date="1513174872478" expanded="true" signature="2742:2844" ph="INSERT into content... " />
+            <marker date="1513174872478" expanded="true" signature="2742:2847" ph="INSERT into content... " />
+            <marker date="1513174872478" expanded="true" signature="3246:3272" ph="SELECT * FRO... contenttable" />
+            <marker date="1513174872478" expanded="true" signature="3362:3740" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3372:3385" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3372:3387" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3372:3674" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3414:3668" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3436:3452" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3436:3668" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3463:3668" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3513:3575" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3513:3576" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3513:3668" ph="..." />
+            <marker date="1513174872478" expanded="true" signature="3664:3668" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/StyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webshop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Webpages/AdminPanel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
